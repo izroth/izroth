@@ -27,8 +27,6 @@
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/github/commit-activity/m/izroth/your-repo" alt="Commit Activity" />
-  <img src="https://img.shields.io/github/last-commit/izroth/your-repo" alt="Last Commit" />
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=izroth&show_icons=true&locale=en" alt="izroth" /></p>
