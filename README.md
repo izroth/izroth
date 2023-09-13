@@ -1,11 +1,16 @@
 <h1 align="center">Hi 👋, I'm Lakhan Sharma</h1>
 <h3 align="center">A passionate Backend Developer</h3>
 <img align= "right" alt="coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
+
 - 🌱 I’m currently learning **Javascript , TypeScript**
 
 - 💬 Ask me about **Node.js**
 
 - 📫 How to reach me **lakhansharma889027@gmail.com**
+
+- 💼 I have published two Node packages:
+  - [exl-2-json](https://www.npmjs.com/package/exl-2-json)
+  - [data-cypher](https://www.npmjs.com/package/data-cypher)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
