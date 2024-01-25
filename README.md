@@ -6,6 +6,10 @@
 
 - 💬 Ask me about **Node.js**
 
+- 🏗️ FrameWork I use **Express.js, Serverless, Nest.js**
+
+- 🛢️ Database **MongoDB, DynamoDB, MySQL ,Postgresql**
+
 - 📫 How to reach me **lakhansharma889027@gmail.com**
 
 - 💼 I have published three Node packages:
