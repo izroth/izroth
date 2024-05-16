@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **lakhansharma889027@gmail.com**
 
-- 💼 I have published three Node packages:
+- 💼 Published Node packages:
   - [exl-2-json](https://www.npmjs.com/package/exl-2-json)
   - [data-cypher](https://www.npmjs.com/package/data-cypher)
   - [authenticate-user.js](https://www.npmjs.com/package/authenticate-user.js)
